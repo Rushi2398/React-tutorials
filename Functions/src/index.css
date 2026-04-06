@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue';
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.page1 {
+  height: 100vh;
+  width: 100%;
+  background-color: red;
+}
+
+.page2 {
+  height: 100vh;
+  width: 100%;
+  background-color: green;
+}
+
+.page3 {
+  height: 100vh;
+  width: 100%;
+  background-color: yellow;
+}
